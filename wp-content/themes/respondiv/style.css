@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Respondiv
+ Theme URI:    http://www.respondiv.com
+ Author:       Sushil Prasai
+ Author URI:   http://www.respondiv.com
+ Template:     enfold
+ Version:      1.0.1
+*/
+
+@import url("../enfold/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.page-id-20 .grid-entry{
+	padding-bottom: 10px;
+}
